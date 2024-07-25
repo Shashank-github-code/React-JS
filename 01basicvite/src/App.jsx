@@ -1,6 +1,6 @@
-
-
 import Youtube from "./YouTube"
+
+// is a function which is expo
 function App() {
   const [count, setCount] = useState(0)
 
